@@ -8,7 +8,7 @@ Designed to simplify property discovery and boost visibility for sellers, this p
 
 ---
 
-## 🚀 Features (Plain Format)
+## 🚀 Features 
 
 🔍 **Advanced Property Search**
 - Filter listings by location, price, and property type  
